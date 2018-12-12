@@ -1,4 +1,5 @@
 {
   "name": "humansnet-react-newspapers",
-  "main": "./HumansNewspapers.js"
+  "main": "HumansNewspapers.js",
+  "author": "ilya_smurov"
 }
