@@ -1,5 +1,4 @@
 {
-  "private": true,
   "name": "HumansNewspapers",
   "main": "./HumansNewspapers.js"
 }
