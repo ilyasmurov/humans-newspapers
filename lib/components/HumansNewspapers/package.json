@@ -1,4 +1,5 @@
 {
+  "private": true,
   "name": "humansnet-react-newspapers",
   "main": "HumansNewspapers.js",
   "author": "ilya_smurov"
